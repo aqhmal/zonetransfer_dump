@@ -9,7 +9,11 @@ This script will automatically retrieve and dump all DNS records from misconfigu
 
 ### Usage
 `python3 dumper.py <domain or URL>`
+
 For example,
+
 `python3 dumper.py testing.com`
+
 Also can be used for multiple domains
+
 `python3 dumper.py testing.com test.com test.net https://www.test.com http://test123.com`
