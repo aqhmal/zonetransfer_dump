@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# by Aqhmal (https://github.com/aqhmal)
 import sys
 import tldextract
 import dns.resolver
